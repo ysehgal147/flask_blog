@@ -21,6 +21,8 @@ The front end is from Bootstrap while back end database is implemented using SQL
 
 ![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/Screenshot%202020-07-15%20at%201.49.17%20AM.png)
 
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/Screenshot%202020-07-15%20at%202.25.00%20AM.png)
+
 ## Technologies
 * Python 3.6
 * Flask 1.1.2
@@ -50,4 +52,4 @@ Project is not being continued, due to availability of a lot of inbuilt features
 [@Corey Schwartz](https://www.youtube.com/c/Coreyms)
 
 ## Contact
-Created by [@Yogesh Sehgal](yogeshsehgal99@rediffmail.com) - feel free to contact me!
+Created by Yogesh Sehgal, Email: [yogeshsehgal99@rediffmail.com](yogeshsehgal99@rediffmail.com) - feel free to contact me!
