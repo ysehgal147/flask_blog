@@ -19,6 +19,8 @@ The front end is from Bootstrap while back end database is implemented using SQL
 ## Screenshots
 ![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/Screenshot%202020-07-15%20at%202.00.16%20AM.png)
 
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/Screenshot%202020-07-15%20at%202.00.12%20AM.png)
+
 ## Technologies
 * Python 3.6
 * Flask 1.1.2
