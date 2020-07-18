@@ -17,11 +17,11 @@ The blog is capable of displaying new and old posts, as well as user management 
 The front end is from Bootstrap while back end database is implemented using SQLAlchemy.
 
 ## Screenshots
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/Screenshot%202020-07-15%20at%202.00.16%20AM.png)
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/screenshots/Screenshot%202020-07-15%20at%202.25.00%20AM.png)
 
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/Screenshot%202020-07-15%20at%201.49.17%20AM.png)
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/screenshots/Screenshot%202020-07-15%20at%201.52.23%20AM.png)
 
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/Screenshot%202020-07-15%20at%202.25.00%20AM.png)
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/screenshots/Screenshot%202020-07-15%20at%202.00.16%20AM.png)
 
 ## Technologies
 * Python 3.6
